@@ -1,7 +1,12 @@
 {
   "name": "storybook-knobs-slow",
   "version": "0.0.1",
+  "description": "reproducer for @storybook/addon-knobs issue storybookjs/storybook#10019",
   "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucaswerkmeister/storybook-knobs-slow.git"
+  },
   "scripts": {
     "storybook": "start-storybook"
   },
