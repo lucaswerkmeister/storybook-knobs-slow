@@ -1,0 +1,18 @@
+{
+  "name": "storybook-knobs-slow",
+  "version": "0.0.1",
+  "license": "CC0-1.0",
+  "scripts": {
+    "storybook": "start-storybook"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@storybook/addon-knobs": "^5.3.14",
+    "@storybook/vue": "^5.3.14",
+    "babel-loader": "^8.0.6",
+    "babel-preset-vue": "^2.0.2",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
